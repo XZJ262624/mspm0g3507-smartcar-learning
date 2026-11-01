@@ -1,8 +1,8 @@
-# MSPM0G3507 智能车学习项目
+# MSPM0G3507 灰度循迹智能车
 
-大二阶段基于 **TI MSPM0G3507 + Code Composer Studio（CCS）** 的嵌入式智能车项目。从 PWM、串口和电机驱动逐步迭代到编码器反馈、PID 与灰度循迹。
+基于 **TI MSPM0G3507 + Code Composer Studio（CCS）** 的嵌入式智能车项目。从 PWM、串口和电机驱动逐步迭代到编码器反馈、PID 与灰度循迹。
 
-本仓库以 `M0G3507_7_Tracking` 作为完整循迹版本。2026 年广东省电赛省一等奖对应另一个 [MSPM0G3519 项目](https://github.com/XZJ262624/mspm0g3519-gd-electronic-design-2026)。
+本仓库以 `M0G3507_7_Tracking` 作为完整循迹版本。
 
 ## 功能与代码
 

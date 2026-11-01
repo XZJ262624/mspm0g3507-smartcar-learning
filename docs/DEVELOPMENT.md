@@ -2,7 +2,7 @@
 
 M0G3507_1_PWM → M0G3507_2_UART_* → M0G3507_3_Motor_1 → M0G3507_4_Encoder_* → M0G3507_5_PID_* → M0G3507_6_OLED → M0G3507_7_Tracking。
 
-发布最后一个完整循迹工程。P01_M0G3507_Rebuild 是后续结构重构起点，其 main.c 主要执行底层初始化，未用它替换完整循迹工程。该项目属于大二学习阶段，与 G3519 省电赛项目分别归档。
+发布最后一个完整循迹工程。P01_M0G3507_Rebuild 是后续结构重构起点，其 main.c 主要执行底层初始化，未用它替换完整循迹工程。
 
 ## 整理原则
 
@@ -10,4 +10,4 @@ M0G3507_1_PWM → M0G3507_2_UART_* → M0G3507_3_Motor_1 → M0G3507_4_Encoder_*
 
 新增根 README、忽略规则、来源清单；CCS 发布副本清理旧电脑路径及失效的 IDE 元数据，固件算法不作修改。
 
-source-manifest.json 保存每个复制文件的原始相对路径、原始 SHA-256 和发布 SHA-256；modified_for_publication 标明配置或文档的整理改动。比赛背景按作者说明记录，不根据文件时间戳推断比赛年份。
+source-manifest.json 保存每个复制文件的原始相对路径、原始 SHA-256 和发布 SHA-256；modified_for_publication 标明配置或文档的整理改动。
