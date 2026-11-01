@@ -1,0 +1,201 @@
+{
+  "note": "Paths relative to the original project root. New publication documents are not source copies.",
+  "files": [
+    {
+      "file": "firmware/.ccsproject",
+      "source": "M0G3507_7_Tracking/.ccsproject",
+      "sha256": "0d63e2af25052a7f763ff277184423e9638f7c576961b4118bf2acf85d7e21a3",
+      "published_sha256": "0864f5dbad4cb279efc156a1ab08b33c4c9bbcf2f3055803840674144577c098",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/.cproject",
+      "source": "M0G3507_7_Tracking/.cproject",
+      "sha256": "4fd3f495f16f952e4634cd655349e4af4b00d834c6ad05d961778f1ce2832678",
+      "published_sha256": "41aa6ea969e15ad6da45a76955867ded2c97414051389557a9d090d737b3b783",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/.project",
+      "source": "M0G3507_7_Tracking/.project",
+      "sha256": "9f6851d8554b710b48b7fa38feb9d3a8434eab1164dfadc72c17f9f541edc801",
+      "published_sha256": "9f6851d8554b710b48b7fa38feb9d3a8434eab1164dfadc72c17f9f541edc801",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Encoder.c",
+      "source": "M0G3507_7_Tracking/Hardware/Encoder.c",
+      "sha256": "4d1cd70de4d9076496d53249da5dd588bb33dee7f4fb840c84bdd366d52f6000",
+      "published_sha256": "4d1cd70de4d9076496d53249da5dd588bb33dee7f4fb840c84bdd366d52f6000",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Encoder.h",
+      "source": "M0G3507_7_Tracking/Hardware/Encoder.h",
+      "sha256": "a131a9795cf7da7e7d3111d55a63dd1a006d1288c95fb0b92676701ad5aff5d9",
+      "published_sha256": "a131a9795cf7da7e7d3111d55a63dd1a006d1288c95fb0b92676701ad5aff5d9",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Key.c",
+      "source": "M0G3507_7_Tracking/Hardware/Key.c",
+      "sha256": "e836b81d50df5870d2575d27404c31ddc401871f87964a43d62a97afc6e17365",
+      "published_sha256": "e836b81d50df5870d2575d27404c31ddc401871f87964a43d62a97afc6e17365",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Key.h",
+      "source": "M0G3507_7_Tracking/Hardware/Key.h",
+      "sha256": "5e70c12f6fecc5471a820bd902a6d6a68fda6e867b8961fd5e584ab5b9cbcf82",
+      "published_sha256": "5e70c12f6fecc5471a820bd902a6d6a68fda6e867b8961fd5e584ab5b9cbcf82",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Motor.c",
+      "source": "M0G3507_7_Tracking/Hardware/Motor.c",
+      "sha256": "78afbe8e3af686185b36d892a4c96ffc764d80e2949efd63329629e5be15d0ef",
+      "published_sha256": "78afbe8e3af686185b36d892a4c96ffc764d80e2949efd63329629e5be15d0ef",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Motor.h",
+      "source": "M0G3507_7_Tracking/Hardware/Motor.h",
+      "sha256": "983a1aee2960438eba9a75b232e5a8473d82877a1dd40227b04b25a61c78316b",
+      "published_sha256": "983a1aee2960438eba9a75b232e5a8473d82877a1dd40227b04b25a61c78316b",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/OLED.c",
+      "source": "M0G3507_7_Tracking/Hardware/OLED.c",
+      "sha256": "ac6afcf0cf7ca6350a696e87156a94db00eab62f0e349adcb2b736dd8825f3b7",
+      "published_sha256": "ac6afcf0cf7ca6350a696e87156a94db00eab62f0e349adcb2b736dd8825f3b7",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/OLED.h",
+      "source": "M0G3507_7_Tracking/Hardware/OLED.h",
+      "sha256": "9f0a3ca61d1b1b9bb7be1674e155ae18dc63469264e9807d4d9d6e2d9e7c4a54",
+      "published_sha256": "9f0a3ca61d1b1b9bb7be1674e155ae18dc63469264e9807d4d9d6e2d9e7c4a54",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PWM.c",
+      "source": "M0G3507_7_Tracking/Hardware/PWM.c",
+      "sha256": "95a96b00332aece4d162dce7f66b19f75c8c1c42c29b52130c836c2edd28edba",
+      "published_sha256": "95a96b00332aece4d162dce7f66b19f75c8c1c42c29b52130c836c2edd28edba",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PWM.h",
+      "source": "M0G3507_7_Tracking/Hardware/PWM.h",
+      "sha256": "9fb9ae0852286af44f4c6b3765eef98abe0aeb39fa89f313c729bb3d56e775a7",
+      "published_sha256": "9fb9ae0852286af44f4c6b3765eef98abe0aeb39fa89f313c729bb3d56e775a7",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Timer.c",
+      "source": "M0G3507_7_Tracking/Hardware/Timer.c",
+      "sha256": "6cf06e116a5c1dfc4ec7b80aaec689466ed45ac6d16feba6188df72b84e12af7",
+      "published_sha256": "6cf06e116a5c1dfc4ec7b80aaec689466ed45ac6d16feba6188df72b84e12af7",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Timer.h",
+      "source": "M0G3507_7_Tracking/Hardware/Timer.h",
+      "sha256": "2b7d178b1b3a444f1770d08235a31e941f17af12a1fbbe3be398bd871424108e",
+      "published_sha256": "2b7d178b1b3a444f1770d08235a31e941f17af12a1fbbe3be398bd871424108e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Tracking.c",
+      "source": "M0G3507_7_Tracking/Hardware/Tracking.c",
+      "sha256": "730801b9009ea8718d7e2fdf33ea770ff5fb30efb38f1739dc297505c8ae8972",
+      "published_sha256": "730801b9009ea8718d7e2fdf33ea770ff5fb30efb38f1739dc297505c8ae8972",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Tracking.h",
+      "source": "M0G3507_7_Tracking/Hardware/Tracking.h",
+      "sha256": "5c10d398b87f1907e918530d232eb50753041cd60e6a59bfedfcba17673fa5ad",
+      "published_sha256": "5c10d398b87f1907e918530d232eb50753041cd60e6a59bfedfcba17673fa5ad",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.c",
+      "source": "M0G3507_7_Tracking/main.c",
+      "sha256": "92c2811eb48e2853d7a84d9d8b199d04b6c93a2b46d777f13b84d8125315878a",
+      "published_sha256": "92c2811eb48e2853d7a84d9d8b199d04b6c93a2b46d777f13b84d8125315878a",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.h",
+      "source": "M0G3507_7_Tracking/main.h",
+      "sha256": "38c761a30f5df3860cb23e212535206d6db1bc62b66f99a4e2c86f152b189d20",
+      "published_sha256": "38c761a30f5df3860cb23e212535206d6db1bc62b66f99a4e2c86f152b189d20",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.syscfg",
+      "source": "M0G3507_7_Tracking/main.syscfg",
+      "sha256": "d6263da9b6b8a262c811c046d591cebd468d2b743df143e93f2b7ce5e139a0cd",
+      "published_sha256": "d6263da9b6b8a262c811c046d591cebd468d2b743df143e93f2b7ce5e139a0cd",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/Clock.c",
+      "source": "M0G3507_7_Tracking/System/Clock.c",
+      "sha256": "c5065d404c68ebc033790c6f2db7846cf5c6cd04bfe00370000fd34f0e2379ae",
+      "published_sha256": "c5065d404c68ebc033790c6f2db7846cf5c6cd04bfe00370000fd34f0e2379ae",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/Clock.h",
+      "source": "M0G3507_7_Tracking/System/Clock.h",
+      "sha256": "1bfa56f739bf030292fc3662f16d2da96e02aa3d2a3c7443e594a8ce2afe8a4d",
+      "published_sha256": "1bfa56f739bf030292fc3662f16d2da96e02aa3d2a3c7443e594a8ce2afe8a4d",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/MPU6050_Reg.h",
+      "source": "M0G3507_7_Tracking/System/MPU6050_Reg.h",
+      "sha256": "9a6bdb38c66515c60fc4306d2c0cc297128e06e8b9905cf3c9f94962320cd48e",
+      "published_sha256": "9a6bdb38c66515c60fc4306d2c0cc297128e06e8b9905cf3c9f94962320cd48e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/OLED_Data.c",
+      "source": "M0G3507_7_Tracking/System/OLED_Data.c",
+      "sha256": "9fe3a82d911d394557bb04b0376bd4ed207867beab97229a6177114efebc4a96",
+      "published_sha256": "9fe3a82d911d394557bb04b0376bd4ed207867beab97229a6177114efebc4a96",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/OLED_Data.h",
+      "source": "M0G3507_7_Tracking/System/OLED_Data.h",
+      "sha256": "f1acd5a2bf4c1c43556ba1171d4709b3072fed493857430d96877ca1a7186cb2",
+      "published_sha256": "f1acd5a2bf4c1c43556ba1171d4709b3072fed493857430d96877ca1a7186cb2",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/UART.c",
+      "source": "M0G3507_7_Tracking/System/UART.c",
+      "sha256": "2479e75e36e4efc9931368d73b286d109d40df42f00bea7f1088079383bc6000",
+      "published_sha256": "2479e75e36e4efc9931368d73b286d109d40df42f00bea7f1088079383bc6000",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/targetConfigs/MSPM0G3507.ccxml",
+      "source": "M0G3507_7_Tracking/targetConfigs/MSPM0G3507.ccxml",
+      "sha256": "50d3cd02de2e579d75b6b86bce0504e2e92e7f7af71e876cf13b280072eed8b7",
+      "published_sha256": "50d3cd02de2e579d75b6b86bce0504e2e92e7f7af71e876cf13b280072eed8b7",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/targetConfigs/readme.txt",
+      "source": "M0G3507_7_Tracking/targetConfigs/readme.txt",
+      "sha256": "02feca4db7d4036c8bf7f75554ce0cc4798454d6ce1aa003934d95410587280e",
+      "published_sha256": "02feca4db7d4036c8bf7f75554ce0cc4798454d6ce1aa003934d95410587280e",
+      "modified_for_publication": false
+    }
+  ]
+}
